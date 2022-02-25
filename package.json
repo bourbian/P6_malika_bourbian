@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "name": "web-developer-p6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": " PORT=3000 nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6#readme",
+  "description": ""
+}
